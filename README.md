@@ -5,7 +5,7 @@
 ---
 
 ## Features
-
+(Gifs take a while to load!!)
 ### Campus Map
 Interactive campus map for navigating buildings and facilities.
 
